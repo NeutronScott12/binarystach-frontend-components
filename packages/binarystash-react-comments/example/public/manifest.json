@@ -1,0 +1,8 @@
+{
+  "short_name": "binarystash-react-comments",
+  "name": "binarystash-react-comments",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
