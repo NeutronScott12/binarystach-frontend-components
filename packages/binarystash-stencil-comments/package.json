@@ -1,0 +1,27 @@
+{
+	"name": "binarystash-stencil-comment",
+	"version": "0.0.1",
+	"description": "Stencil Component Starter",
+	"module": "dist/esm/index.js",
+	"main": "dist/index.js",
+	"unpkg": "dist/ionic.js",
+	"types": "dist/types/components.d.ts",
+	"repository": {
+		"url": "https://github.com/OGNeutron/binarystach-frontend-components/tree/master/packages/binarystash-stencil-component"
+	},
+	"collection": "dist/collection/collection-manifest.json",
+	"files": [
+		"dist/"
+	],
+	"scripts": {
+		"build": "stencil build --docs",
+		"start": "stencil build --dev --watch --serve",
+		"test": "stencil test --spec --e2e",
+		"test.watch": "stencil test --spec --e2e --watchAll"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"@stencil/core": "~0.16.2"
+	},
+	"license": "MIT"
+}

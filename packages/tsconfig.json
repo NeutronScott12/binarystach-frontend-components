@@ -1,0 +1,7 @@
+{
+	"files": [],
+	"references": [
+		{ "path": "binarystash-react-comments" },
+		{ "path": "binarystash-stencil-comments" }
+	]
+}

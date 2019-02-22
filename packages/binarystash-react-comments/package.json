@@ -4,7 +4,7 @@
 	"description": "Comment library for react projects",
 	"author": "OGNeutron",
 	"license": "MIT",
-	"repository": "frontendendcomponents",
+	"repository": "https://github.com/OGNeutron/binarystach-frontend-components/tree/master/packages/binarystash-react-comments",
 	"main": "dist/index.js",
 	"module": "dist/index.es.js",
 	"jsnext:main": "dist/index.es.js",
